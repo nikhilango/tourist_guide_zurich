@@ -51,7 +51,7 @@ a.active, a:hover{
 
 #welcomescreen{
     position: relative;
-    background: url(images/zurich_view.jpg) no-repeat;
+    background: url(images/zurich_view.jpg);
     background-size: cover;
     height: calc(100vh - 80px);
 }
@@ -61,6 +61,53 @@ a.active, a:hover{
     background: url(images/Bahnhofstrasse.jpg) no-repeat;
     background-size: cover;
     height: calc(100vh - 80px);
+}
+
+.t10title{
+    text-align: center;
+    font-size: 80px;
+    padding-top: 5%;
+}
+.t10block{
+    margin: 5%;
+}
+.t10content{
+    margin-right: 50%;
+}
+.t10num{
+    font-size: 100px;
+}
+.t10name{
+    font-weight: lighter;
+}
+.t10sub{
+    color: #919191;
+}
+.t10openh{
+    color: #01A030;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.t10des{
+    font-weight: 100;
+}
+.t10tdes{
+
+}
+.t10photo img{
+    float: right;
+    height: 450px;
+    transition: 0.2s;
+}
+
+.t10photo img:hover{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+}
+
+.t10divider{
+    margin-top: 250px;
 }
 
 #restaurants{
