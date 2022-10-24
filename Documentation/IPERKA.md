@@ -29,6 +29,7 @@ We have found a website, in which we are getting ideas and informations from.
 - research (information)
 - design for the website
 - code
+- take pictures of the places
 
 
 
