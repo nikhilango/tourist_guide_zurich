@@ -1,23 +1,20 @@
 # tourist_guide_zurich
 
-Documentation of the tourists guide 
+## The documentation of the tourist guide 
 
-virginia:
-
-nikhil:
-
-aabish:
-layout
-design
-
-colors: 
-white 
-black
-grey
-blue / red
-
-
-confirmed with the other members: 
-colours: white, black, grey, 
-test
-
+What needs to be in our documentation
+Titelblatt
+  Titel (evtl. Untertitel)
+  Autoren
+  Datum der Erstellung / Datum des Drucks.
+  Firma, Schule
+Weitere Seiten
+  Revisionshistory
+  Inhaltsverzeichnis bei mehr als 10 Seiten
+  Seitennummerierung
+  Kopf / Fusszeile
+  Dezimalklassierte Titel
+Wichtig
+  Kurze, klare Sätze
+  Rechtschreibung
+  Kommasetzung
