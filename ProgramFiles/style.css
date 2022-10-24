@@ -121,63 +121,63 @@ li a{
         transition: 0.2s;
     }
     #top10placestovisit{
-        background: url(images/Bahnhofstrasse.jpg);
+        background: url(/ProgramFilesimages/Bahnhofstrasse.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .grossmünsterTitleScreen{
         position: relative;
-        background: url(/images/Grossmünster.jpg);
+        background: url(/ProgramFiles/images/Grossmünster.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .fraumünsterTitleScreen{
         position: relative;
-        background: url(/images/fraumünster.jpg);
+        background: url(/ProgramFiles/images/fraumünster.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .uetlibergTitleScreen{
         position: relative;
-        background: url(/images/Uetliberg.jpg);
+        background: url(/ProgramFiles/images/Uetliberg.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .bahnhofstrasseTitleScreen{
         position: relative;
-        background: url(/images/Bahnhofstrasse.jpg);
+        background: url(/ProgramFiles/images/Bahnhofstrasse.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .lakezurichTitleScreen{
         position: relative;
-        background: url(/images/LakeZurich.jpg);
+        background: url(/ProgramFiles/images/LakeZurich.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .sechseläutenplatzTitleScreen{
         position: relative;
-        background: url(/images/#);
+        background: url(/ProgramFiles/images/#);
         background-size: cover;
         width: 100%;
         height: auto;
     }  
     .lindenhofTitleScreen{
         position: relative;
-        background: url(/images/lindenhof.jpg);
+        background: url(/ProgramFiles/images/lindenhof.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .theoldtownTitleScreen{
         position: relative;
-        background: url(/images/theoldtown.jpg);
+        background: url(/ProgramFiles/images/theoldtown.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
@@ -193,13 +193,13 @@ a.active, a:hover{
 
 #welcomescreen{
     position: relative;
-    background: url(images/zurich_view.jpg);
+    background: url(/ProgramFiles/images/zurich_view.jpg);
     background-size: cover;
     height: auto;
 }
 
 #top10placestovisit{
-    background: url(images/Bahnhofstrasse.jpg);
+    background: url(/ProgramFiles/images/Bahnhofstrasse.jpg);
     background-size: cover;
     height: calc(100vh - 80px);
 }
@@ -207,49 +207,49 @@ a.active, a:hover{
 
 .grossmünsterTitleScreen{
     position: relative;
-    background: url(/images/Grossmünster.jpg);
+    background: url(/ProgramFiles/images/Grossmünster.jpg);
     background-size: cover;
     height: calc(100vh - 380px);
 }
 .fraumünsterTitleScreen{
     position: relative;
-    background: url(/images/fraumünster.jpg);
+    background: url(/ProgramFiles/images/fraumünster.jpg);
     background-size: cover;
     height: calc(100vh - 380px);
 }
 .uetlibergTitleScreen{
     position: relative;
-    background: url(/images/Uetliberg.jpg);
+    background: url(/ProgramFiles/images/Uetliberg.jpg);
     background-size: cover;
     height: h;
 }
 .bahnhofstrasseTitleScreen{
     position: relative;
-    background: url(/images/Bahnhofstrasse.jpg);
+    background: url(/ProgramFiles/images/Bahnhofstrasse.jpg);
     background-size: cover;
     height: calc(100vh - 380px);
 }
 .lakezurichTitleScreen{
     position: relative;
-    background: url(/images/LakeZurich.jpg);
+    background: url(/ProgramFiles/images/LakeZurich.jpg);
     background-size: cover;
     height: calc(100vh - 9vh);
 }
 .sechseläutenplatzTitleScreen{
     position: relative;
-    background: url(/images/#);
+    background: url(/ProgramFiles/images/#);
     background-size: cover;
     height: calc(100vh - 380px);
 }
 .lindenhofTitleScreen{
     position: relative;
-    background: url(/images/lindenhof.jpg);
+    background: url(/ProgramFiles/images/lindenhof.jpg);
     background-size: cover;
     height: calc(100vh - 9vh);
 }
 .theoldtownTitleScreen{
     position: relative;
-    background: url(/images/theoldtown.jpg);
+    background: url(/ProgramFiles/images/theoldtown.jpg);
     background-size: cover;
     height: calc(100vh - 380px);
 }
@@ -401,9 +401,58 @@ a.active, a:hover{
     margin-top: 5vh;
 }
 
+/*--------------------------------------------------------------------------------------------------------*/
+
 #restaurants{
     position: relative;
-    background: url(images/mcdonalds.jpg) no-repeat;
+    background: url(/ProgramFiles/images/mcdonalds.jpg) no-repeat;
     background-size: cover;
     height: calc(100vh - 80px);
+}
+
+.resttitle{
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 5%;
+    color: black;
+}
+.restsubtitle{
+    text-align: center;
+    font-size: 1.5prem;
+    padding-top: 5%;
+    color: black;
+}
+.restdes{
+    text-align: center;
+    font-size: 20px;
+    margin: 10% 20%;
+    line-height: 30px;
+}
+.restdivider{
+    margin-top: 0px;
+}
+.restprice{
+    margin: 5%;
+}
+.restpricesdes{
+    margin-top: 20px;
+}
+.restprices{
+    margin-top: 20px;
+    margin-right: 10%;
+    float: right;
+}
+.restprice img{
+    width: 300px;
+    float: right;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+.restgmlink{
+    
+    font-size: 18px;
+}
+.restpriceTitle{
+    margin-bottom: 30px;
+    color: #0082e6;
 }
