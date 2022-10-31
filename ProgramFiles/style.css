@@ -195,7 +195,7 @@ a.active, a:hover{
     position: relative;
     background: url(/ProgramFiles/images/zurich_view.jpg);
     background-size: cover;
-    height: auto;
+    height: calc(110vh - 30px);
 }
 
 #top10placestovisit{
