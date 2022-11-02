@@ -9,8 +9,8 @@ Project was succesfully made by:
 ## Contents
 - [The Beginning](#thebeginning)
 - [The Idea](#theidea)
-- [The Planning](#theplanning)
-- [The Evaluation/ Decision](#theevalanddec)
+- [Our Planning](#theplanning)
+- [Our Evaluation/ Decision](#theevalanddec)
 - [The Realisation](#therealisation)
 - [The Control](#thecontrol)
 - [The Assesment](#theassesment)
@@ -35,11 +35,11 @@ Links from where we got our ideas from:
 Links: basic infos
 
 <a name="theidea"></a>
-## The Idea 
+## The Ideas
 We got our idea with the help of our teacher, Mr. Neil. He was showing us previous projects done by the year before us and one of the ideas were programming a website. We really liked the idea, so we decided to go for it.
 
 <a name="theplanning"></a>
-## Planning
+## Our Planning
 Now we didn’t know what our website was going to be about, so we decided that we would all start collecting ideas, which was an event planner, a blog making site and a tourist guide to Zürich. At last, we decided to make a Zürich tourist guide website. We made a Assessment brief and we were ready to execute our project. 
 
 Image
@@ -47,7 +47,7 @@ Image
 -	Competency matrix
 
 <a name="theevalanddec"></a>
-## The Evaluation/ Decision 
+## Our Evaluation/ Decision 
 After the planning, we decided to give every person a role. Virginia assured us on searching information for Zürich and Nikhil and I decided to do the programming for the site. Including programming the site, I took the role of doing the documentation, IPERKA, and as well the presentation. 
 
 Image:
