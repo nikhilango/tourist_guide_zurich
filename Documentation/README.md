@@ -7,19 +7,17 @@ Project was succesfully made by:
 - Aabish: Accenture, Technische Berufschule Zürich
 
 
-Inhaltsverzeichnis needed if the documentation is more than 10 sites.
+**!!Inhaltsverzeichnis needed if the documentation is more than 10 sites.
 
 
-till 6.11:
-
-assignment brief
-doc:
-ressource plan 
-test case
-decision matrix
-task list
-	
-every doc found about our project, send me or post it!!
+**till 6.11:**
+- assignment brief
+*doc:*
+- ressource plan 
+- test case
+- decision matrix
+- task list
+**every doc found about our project, send me or post it!!**
 
 
 ## 1. The Beginning
@@ -50,16 +48,17 @@ Everything was going smoothly till we had to show Mr Neil where we were at. I re
 Instead of me programming, I will be designing the site and also doing my previous roles. We all agreed and proceeded on.
 
 
-If theres anything you, Virginia or Nikhil want to add in the realisation part which you did, add it in this section
-z.B:
+**If theres anything you, Virginia or Nikhil want to add in the realisation part which you did, add it in this section**
+
+**z.B:
 Virginia: where I got the infos for the site (research,…), what application I used, how it went, difficulties
-Nikhil: what application I used, how it went, difficulties
+Nikhil: what application I used, how it went, difficulties**
 
 ## 5. The Control
 We checked our mistakes..
-Nikhil:  how did u check for the mistakes
-Test case  excel sheet
+**Nikhil:  how did u check for the mistakes
+- Test case  excel sheet
 
 ## 6. The Assessment
 How was the group assignment, how was the communication, did everything go smoothly, what do we wish to change, does the website function properly, do we have everything we want on the site?
-Qs that need to be answered ^^
+**Qs that need to be answered ^^
