@@ -391,6 +391,12 @@ a.active, a:hover{
     transition: 0.2s;
 }
 
+.t10photo img{
+    float: right;
+    height: 30vh;
+    transition: 0.2s;
+}
+
 .t10photo img:hover{
     transform: scale(1.1);
     -webkit-transform: scale(1.1);
@@ -399,6 +405,18 @@ a.active, a:hover{
 
 .t10divider{
     margin-top: 5vh;
+}
+
+.t10act {
+    float: right;
+    margin-top: 130px;
+    background-color: #d3d2d2;
+    padding: 15px;
+    border-radius: 7px;
+}
+
+.t10act p{
+    padding: 2px;
 }
 
 /*--------------------------------------------------------------------------------------------------------*/
