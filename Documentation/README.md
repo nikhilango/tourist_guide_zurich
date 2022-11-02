@@ -12,6 +12,7 @@ Project was succesfully made by:
 
 **till 6.11:**
 - assignment brief
+
 *doc:*
 - ressource plan 
 - test case
