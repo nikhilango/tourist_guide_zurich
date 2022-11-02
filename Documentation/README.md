@@ -19,11 +19,7 @@ test case
 decision matrix
 task list
 	
-every doc found, send
-
-
-
-	Mile stones need to appear in the documentation
+every doc found about our project, send me or post it!!
 
 
 ## 1. The Beginning
