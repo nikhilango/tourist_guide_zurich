@@ -15,8 +15,6 @@ Project was succesfully made by:
 - [The Control](#thecontrol)
 - [The Assesment](#theassesment)
 
-**!!Inhaltsverzeichnis needed if the documentation is more than 10 sites.
-
 
 **till 6.11:**
 - assignment brief
