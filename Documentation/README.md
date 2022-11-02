@@ -71,6 +71,7 @@ Nikhil: what application I used, how it went, difficulties**
 <a name="thecontrol"></a>
 ## The Control
 We checked our mistakes..
+
 **Nikhil:  how did u check for the mistakes**
 - Test case  excel sheet
 
