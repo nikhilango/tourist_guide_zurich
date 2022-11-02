@@ -2,9 +2,9 @@
 ## The documentation of the tourist guide
 
 Project was succesfully made by:
-•	Virginia: Google, Technische Berufschule Zürich
-•	Nikhil: Google, Technische Berufschule Zürich
-•	Aabish: Accenture, Technische Berufschule Zürich
+- Virginia: Google, Technische Berufschule Zürich
+- Nikhil: Google, Technische Berufschule Zürich
+- Aabish: Accenture, Technische Berufschule Zürich
 
 
 Inhaltsverzeichnis needed if the documentation is more than 10 sites.
