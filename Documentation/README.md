@@ -1,5 +1,5 @@
-#Tourist Guide Zürich
-##The documentation of the tourist guide
+# Tourist Guide Zürich
+## The documentation of the tourist guide
 
 Project was succesfully made by:
 •	Virginia: Google, Technische Berufschule Zürich
@@ -59,11 +59,11 @@ z.B:
 Virginia: where I got the infos for the site (research,…), what application I used, how it went, difficulties
 Nikhil: what application I used, how it went, difficulties
 
-##5. The Control
+## 5. The Control
 We checked our mistakes..
 Nikhil:  how did u check for the mistakes
 Test case  excel sheet
 
-##6. The Assessment
+## 6. The Assessment
 How was the group assignment, how was the communication, did everything go smoothly, what do we wish to change, does the website function properly, do we have everything we want on the site?
 Qs that need to be answered ^^
