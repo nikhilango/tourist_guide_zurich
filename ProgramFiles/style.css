@@ -182,6 +182,13 @@ li a{
         width: 100%;
         height: auto;
     }
+    .primetowerTitleScreen{
+        position: relative;
+        background: url(/ProgramFiles/images/primetower.jpg);
+        background-size: cover;
+        width: 100%;
+        height: auto;
+    }
 }
 
 
@@ -253,8 +260,20 @@ a.active, a:hover{
     background-size: cover;
     height: calc(100vh - 380px);
 }
-
-
+.primetowerTitleScreen{
+    position: relative;
+    background: url(/ProgramFiles/images/primetower.jpg);
+    background-size: cover;
+    width: 100%;
+    height: calc(100vh - 380px);;
+}
+.polyterrasseTitleScreen{
+    position: relative;
+    background: url(/ProgramFiles/images/primetower.jpg);
+    background-size: cover;
+    width: 100%;
+    height: calc(100vh - 380px);;
+}
 
 
 
