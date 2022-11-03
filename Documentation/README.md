@@ -24,6 +24,7 @@ Project was succesfully made by:
 - test case
 - decision matrix
 - task list
+-designs
 **every doc found about our project, send me or post it!!**
 
 <a name="thebeginning"></a>
@@ -66,10 +67,10 @@ Instead of me programming, I will be designing the site and also doing my previo
 
 **If theres anything you, Virginia or Nikhil want to add in the realisation part which you did, add it in this section**
 
-**z.B:
-Virginia: where I got the infos for the site (research,…), what application I used, how it went, difficulties 
+**z.B:**
+_Virginia: where I got the infos for the site (research,…), what application I used, how it went, difficulties_
 
-Nikhil: what application I used, how it went, difficulties**
+_Nikhil: what application I used, how it went, difficulties_
 V: I mainly focused on research and collecting the information we needed for our website for example the top 10 places to visit in Zurich.
 <a name="thecontrol"></a>
 ## The Control
