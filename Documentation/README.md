@@ -80,7 +80,7 @@ We checked our mistakes..
 <a name="theassesment"></a>
 ## The Assessment
 Our Group believes that we worked great together and accomplished the task we were assigned to do. We learned how to work together as a group and that it can be much more complicated and difficult than anticipated due to the fact that you have to trust every member with them 
-fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother. Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying. We are very proud of our Site because we have everything we want on our site.
+fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother. Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying. We are very proud of our site because we have everything we want on our site.
 All together we are very pleased with the outcome of our project, how well our group worked together and the fact that we completed everything on schedule.
 
 **Goals??? ^^**
