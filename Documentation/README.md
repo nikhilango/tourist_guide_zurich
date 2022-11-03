@@ -65,9 +65,9 @@ Instead of me programming, I will be designing the site and also doing my previo
 **If theres anything you, Virginia or Nikhil want to add in the realisation part which you did, add it in this section**
 
 **z.B:
-Virginia: where I got the infos for the site (research,…), what application I used, how it went, difficulties
+Virginia: where I got the infos for the site (research,…), what application I used, how it went, difficulties 
 Nikhil: what application I used, how it went, difficulties**
-
+V: I mainly focused on research and collecting the information we needed for our website for example the top 10 places to visit in Zurich.
 <a name="thecontrol"></a>
 ## The Control
 We checked our mistakes..
@@ -77,16 +77,9 @@ We checked our mistakes..
 
 <a name="theassesment"></a>
 ## The Assessment
+Our Group believes that we worked great together and accomplished the task we were assigned to do. We learned how to work together as a group and that it can be much more complicated and difficult than anticipated due to the fact that you have to trust every member with them 
+fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother. Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying. We are very proud of our Site because we have everything we want on our site.
+All together we are very pleased with the outcome of our project, how well our group worked together and the fact that we completed everything on schedule.
+
 How was the group assignment, how was the communication, did everything go smoothly, what do we wish to change, does the website function properly, do we have everything we want on the site?
 **Qs that need to be answered ^^**
-
-
-During the last 7 weeks, the three of us have been working together on our assignment. We believe we did a good job as a team and we all are satisfied with the results.
-We decided to create a website to be more specific a tourist guide. We began with gathering ideas and then choosing the one we all found the most interesting.
-Each person was then assigned to their tasks. I mainly focused on research and collecting the information we needed for our website for example the top 10 places to visit in Zurich.
-When we all completed what was assigned to us we gathered our work and finished off making the website. 
-We think that we worked well and did everyhting that we had to do on the part we got assigned. We learned how to work together in a group and how it can be a lot more complicated
-than expected to have so many tasks to do as a group in a certain amount of time and make sure everyone knows what to do when. We had to learn how to 
-assign tasks specifically, to have everyone work on something different at the same time and always communicate what we are currently working on. 
-In general we are very pleased with the outcome of our project and how well our group was able to work together and complete everything on schedule.
-
