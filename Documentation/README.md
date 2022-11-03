@@ -48,7 +48,7 @@ Image
 
 <a name="theevalanddec"></a>
 ## Our Evaluation/ Decision 
-After the planning, we decided to give every person a role. Virginia assured us on searching information for Zürich and Nikhil and I decided to do the programming for the site. Including programming the site, I took the role of doing the documentation, IPERKA, and as well the presentation. 
+After the planning, we decided to give every person a role. Virginia assured us on searching information of Zürich and Nikhil and I decided to do the programming for the site. Including programming the site, I took the role of doing the documentation, IPERKA, and as well the presentation. 
 
 Image:
 -	Decision matrix
@@ -79,3 +79,14 @@ We checked our mistakes..
 ## The Assessment
 How was the group assignment, how was the communication, did everything go smoothly, what do we wish to change, does the website function properly, do we have everything we want on the site?
 **Qs that need to be answered ^^**
+
+
+During the last 7 weeks, the three of us have been working together on our assignment. We believe we did a good job as a team and we all are satisfied with the results.
+We decided to create a website to be more specific a tourist guide. We began with gathering ideas and then choosing the one we all found the most interesting.
+Each person was then assigned to their tasks. I mainly focused on research and collecting the information we needed for our website for example the top 10 places to visit in Zurich.
+When we all completed what was assigned to us we gathered our work and finished off making the website. 
+We think that we worked well and did everyhting that we had to do on the part we got assigned. We learned how to work together in a group and how it can be a lot more complicated
+than expected to have so many tasks to do as a group in a certain amount of time and make sure everyone knows what to do when. We had to learn how to 
+assign tasks specifically, to have everyone work on something different at the same time and always communicate what we are currently working on. 
+In general we are very pleased with the outcome of our project and how well our group was able to work together and complete everything on schedule.
+
