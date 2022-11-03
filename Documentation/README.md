@@ -81,5 +81,4 @@ Our Group believes that we worked great together and accomplished the task we we
 fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother. Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying. We are very proud of our Site because we have everything we want on our site.
 All together we are very pleased with the outcome of our project, how well our group worked together and the fact that we completed everything on schedule.
 
-How was the group assignment, how was the communication, did everything go smoothly, what do we wish to change, does the website function properly, do we have everything we want on the site?
-**Qs that need to be answered ^^**
+**Goals??? ^^**
