@@ -32,10 +32,9 @@ Everything began on lovely Monday afternoon class. It was the first day of schoo
 After he had introduced us our job that we would be doing in 3 Months, everyone started rushing to find a pair or multiple pairs. Me, Virginia and Nikhil decided to go together for our projects. Mr Neil suddenly announced saying: “People who are in bigger groups will have an easier time displaying who’s doing what and that is why they’ll be graded much more strictly.” This was kind of alarming because we were one of the bigger groups, but we decided to stay together for the sake of our project.
 
 Links from where we got our ideas from:
-```
+
 - [Design](https://www.zuerich.com/de)
 - [Information](https://www.tripadvisor.com/Tourism-g188113-Zurich-Vacations.html)
-```
 
 <a name="theidea"></a>
 ## The Ideas
