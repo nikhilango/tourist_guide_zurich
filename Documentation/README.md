@@ -68,6 +68,7 @@ Instead of me programming, I will be designing the site and also doing my previo
 
 **z.B:
 Virginia: where I got the infos for the site (research,…), what application I used, how it went, difficulties 
+
 Nikhil: what application I used, how it went, difficulties**
 V: I mainly focused on research and collecting the information we needed for our website for example the top 10 places to visit in Zurich.
 <a name="thecontrol"></a>
@@ -80,7 +81,7 @@ We checked our mistakes..
 <a name="theassesment"></a>
 ## The Assessment
 Our Group believes that we worked great together and accomplished the task we were assigned to do. We learned how to work together as a group and that it can be much more complicated and difficult than anticipated due to the fact that you have to trust every member with them 
-fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother. Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying. We are very proud of our site because we have everything we want on our site.
-All together we are very pleased with the outcome of our project, how well our group worked together and the fact that we completed everything on schedule.
+fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother. Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying.
+All together we are very pleased with the outcome of our project, how well our group worked together and the fact that we completed everything on schedule as well as everything on our site.
 
 **Goals??? ^^**
