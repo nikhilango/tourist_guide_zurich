@@ -189,6 +189,13 @@ li a{
         width: 100%;
         height: auto;
     }
+    .primetowerTitleScreen{
+        position: relative;
+        background: url(/public/ProgramFiles/images/polyterasse.jpg);
+        background-size: cover;
+        width: 100%;
+        height: auto;
+    }
 }
 
 
@@ -269,7 +276,7 @@ a.active, a:hover{
 }
 .polyterrasseTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/primetower.jpg);
+    background: url(/public/ProgramFiles/images/polyterasse.jpg);
     background-size: cover;
     width: 100%;
     height: calc(100vh - 380px);;
