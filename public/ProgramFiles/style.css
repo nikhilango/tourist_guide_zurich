@@ -20,6 +20,7 @@ body{
     background-color: #0082e6;
     color: white;
     width: 100%;
+    text-shadow: #919191;
 }
 
 .logo{
@@ -121,75 +122,75 @@ li a{
         transition: 0.2s;
     }
     #top10placestovisit{
-        background: url(/ProgramFilesimages/Bahnhofstrasse.jpg);
+        background: url(/public/ProgramFilesimages/Bahnhofstrasse.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .grossmünsterTitleScreen{
         position: relative;
-        background: url(/ProgramFiles/images/Grossmünster.jpg);
+        background: url(/public/ProgramFiles/images/Grossmünster.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .fraumünsterTitleScreen{
         position: relative;
-        background: url(/ProgramFiles/images/fraumünster.jpg);
+        background: url(/public/ProgramFiles/images/fraumünster.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .uetlibergTitleScreen{
         position: relative;
-        background: url(/ProgramFiles/images/Uetliberg.jpg);
+        background: url(/public/ProgramFiles/images/Uetliberg.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .bahnhofstrasseTitleScreen{
         position: relative;
-        background: url(/ProgramFiles/images/Bahnhofstrasse.jpg);
+        background: url(/public/ProgramFiles/images/Bahnhofstrasse.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .lakezurichTitleScreen{
         position: relative;
-        background: url(/ProgramFiles/images/LakeZurich.jpg);
+        background: url(/public/ProgramFiles/images/LakeZurich.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .sechseläutenplatzTitleScreen{
         position: relative;
-        background: url(/ProgramFiles/images/#);
+        background: url(/public/ProgramFiles/images/sechseläutenplatz.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }  
     .lindenhofTitleScreen{
         position: relative;
-        background: url(/ProgramFiles/images/lindenhof.jpg);
+        background: url(/public/ProgramFiles/images/lindenhof.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .theoldtownTitleScreen{
         position: relative;
-        background: url(/ProgramFiles/images/theoldtown.jpg);
+        background: url(/public/ProgramFiles/images/theoldtown.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
     .primetowerTitleScreen{
         position: relative;
-        background: url(/ProgramFiles/images/primetower.jpg);
+        background: url(/public/ProgramFiles/images/primetower.jpg);
         background-size: cover;
         width: 100%;
         height: auto;
     }
-    .primetowerTitleScreen{
+    .polyterrasseTitleScreen{
         position: relative;
         background: url(/public/ProgramFiles/images/polyterasse.jpg);
         background-size: cover;
@@ -207,13 +208,13 @@ a.active, a:hover{
 
 #welcomescreen{
     position: relative;
-    background: url(/ProgramFiles/images/zurich_view.jpg);
+    background: url(/public/ProgramFiles/images/zurich_view.jpg);
     background-size: cover;
     height: calc(110vh - 30px);
 }
 
 #top10placestovisit{
-    background: url(/ProgramFiles/images/Bahnhofstrasse.jpg);
+    background: url(/public/ProgramFiles/images/Bahnhofstrasse.jpg);
     background-size: cover;
     height: calc(100vh - 80px);
 }
@@ -221,55 +222,55 @@ a.active, a:hover{
 
 .grossmünsterTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/Grossmünster.jpg);
+    background: url(/public/ProgramFiles/images/Grossmünster.jpg);
     background-size: cover;
     height: calc(100vh - 380px);
 }
 .fraumünsterTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/fraumünster.jpg);
+    background: url(/public/ProgramFiles/images/fraumünster.jpg);
     background-size: cover;
     height: calc(100vh - 380px);
 }
 .uetlibergTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/Uetliberg.jpg);
+    background: url(/public/ProgramFiles/images/Uetliberg.jpg);
     background-size: cover;
     height: h;
 }
 .bahnhofstrasseTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/Bahnhofstrasse.jpg);
+    background: url(/public/ProgramFiles/images/Bahnhofstrasse.jpg);
     background-size: cover;
     height: calc(100vh - 380px);
 }
 .lakezurichTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/LakeZurich.jpg);
+    background: url(/public/ProgramFiles/images/LakeZurich.jpg);
     background-size: cover;
     height: calc(100vh - 9vh);
 }
 .sechseläutenplatzTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/#);
+    background: url(/public/ProgramFiles/images/sechseläutenplatz.jpg);
     background-size: cover;
     height: calc(100vh - 380px);
 }
 .lindenhofTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/lindenhof.jpg);
+    background: url(/public/ProgramFiles/images/lindenhof.jpg);
     background-size: cover;
     height: calc(100vh - 9vh);
 }
 .theoldtownTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/theoldtown.jpg);
+    background: url(/public/ProgramFiles/images/theoldtown.jpg);
     background-size: cover;
     height: calc(100vh - 380px);
 }
 .primetowerTitleScreen{
     position: relative;
-    background: url(/ProgramFiles/images/primetower.jpg);
+    background: url(/public/ProgramFiles/images/primetower.jpg);
     background-size: cover;
     width: 100%;
     height: calc(100vh - 380px);;
@@ -279,7 +280,7 @@ a.active, a:hover{
     background: url(/public/ProgramFiles/images/polyterasse.jpg);
     background-size: cover;
     width: 100%;
-    height: calc(100vh - 380px);;
+    height: calc(100vh - 380px);
 }
 
 
