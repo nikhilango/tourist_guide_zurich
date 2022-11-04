@@ -66,15 +66,15 @@ Instead of me programming, I will be designing the site and also doing my previo
 
 
 **If theres anything you, Virginia or Nikhil want to add in the realisation part which you did, add it in this section**
-
-**z.B:**
-_Virginia: where I got the infos for the site (research,…), what application I used, how it went, difficulties_
+---> --->  V: I mainly focused on research and collecting the information we needed for our website for example the top 10 places to visit in Zurich. For that I looked the diferents places an drestaurant up on the internet and try to get as much information about it as possible and resume it. I also read reviews of people to each place (mainly restaurant and activities), so I would get a better idea of how people expierences were. I enjoyed the part of work I was aasigned to do beacuase I myself learnt a lot of interesting things about Zurich.
 
 _Nikhil: what application I used, how it went, difficulties_
-V: I mainly focused on research and collecting the information we needed for our website for example the top 10 places to visit in Zurich.
+
 <a name="thecontrol"></a>
 ## The Control
 We checked our mistakes..
+---> Each time after adding something new to the code we would check how the website is working and if there is any problem. then we would try to improve the things that aren't right yet. 
+We used a website called siteimprove.com to check how many and what type of errors we still had on our website.
 
 **Nikhil:  how did u check for the mistakes**
 - Test case  excel sheet
