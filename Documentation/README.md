@@ -29,14 +29,14 @@ Project was succesfully made by:
 
 <a name="thebeginning"></a>
 ## The Beginning
-Everything began on lovely Monday afternoon class. It was the first day of school and the teacher told us we would be hosting projects. It could have been anything, but it would benefit us more, if it would be in our own fields. 
-After he had introduced us our job that we would be doing in 3 Months, everyone started rushing to find a pair or multiple pairs. Me, Virginia and Nikhil decided to go together for our projects. Mr Neil suddenly announced saying: “People who are in bigger groups will have an easier time displaying who’s doing what and that is why they’ll be graded much more strictly.” This was kind of alarming because we were one of the bigger groups, but we decided to stay together for the sake of our project.
+Everything began on a lovely Monday afternoon class. It was the first day of school and the teacher told us we would be hosting projects. It could have been anything, but it would benefit us more, if it would be in our own fields. 
+After he had introduced us our assignments that we would be doing under 3 Months, everyone started rushing to find one or multiple pairs. Me, Virginia and Nikhil decided to go together for our projects. Suddenly Mr Neil announced saying: “People, who are in bigger groups will have an easier time displaying who’s doing what and that is why they’ll be graded much more strictly.” This was kind of alarming because we were one of the bigger groups, but we decided to stay together for the sake of our project.
 
 <a name="theidea"></a>
 ## The Idea
-We got our idea with the help of our teacher, Mr. Neil. He was showing us previous projects done by his previous studentts and one of the ideas were programming a website. We really liked the idea, so we decided to go for it.
+We got our idea with the help of our teacher, Mr. Neil. He was showing us previous projects done by his previous studentts and one of the ideas was programming a website. We really liked the idea, so we decided to go for it.
 
-Now we didn’t know what our website was going to be about, so we decided to do a brainstorming and we came up with these ideas, one of them was an event planner, a blog making site and a tourist guide to Zürich. At last, we decided to make a Zürich tourist guide website. 
+Now we didn’t know what our website was going to be about, so we decided to do a brainstorming and we came up with these ideas, one of them was an *event planner*, a *blog making site* and a *tourist guide to Zürich*. At last, we decided to make a Zürich tourist guide website. 
 The website would consists of a guide for tourists who want to visit Zurich or for people who live in Zurich and want to get to know their place better.
 There will be several sections where you can explore sightseeings places you can visit, restaurants in Zurich and fun activities to do.
 You can find a more detailed description of each of the mentioned topics above by clicking on them.
@@ -56,16 +56,13 @@ You can find a more detailed description of each of the mentioned topics above b
 
 <a name="theplanning"></a>
 ## Our Planning
-We made a [To-do List:](https://todoist.com/API/v9.0/import/project_from_url?t_url=https%3A%2F%2Fd1aspxi4rjqbaz.cloudfront.net%2F1e6dcf9bda9bd78f5e18da0de6edeca8_TBZ%2520Website%2520Project.csv) on https://todoist.com/. There we wrote our most important goals and procedure on it. 
+We made a [To-do List:](https://todoist.com/API/v9.0/import/project_from_url?t_url=https%3A%2F%2Fd1aspxi4rjqbaz.cloudfront.net%2F1e6dcf9bda9bd78f5e18da0de6edeca8_TBZ%2520Website%2520Project.csv) on https://todoist.com/. There we wrote our most important goals and procedure on it.
+
 **the photo of our to do list**
-
-We made a Assessment brief and we were ready to execute our project. 
-
 
 Image
 -	Competency matrix
 - ressource plan 
-- task list
 
 ### Goals:
 ```Here are the goals we decided for our website:```
@@ -74,6 +71,8 @@ Image
 - By the 5th of november, the website is online and available (for everyone)
 - At least 5 people have visited our website within the next 2 months of its launch
 
+ After that, we made our [Assessment brief](https://docs.google.com/document/d/1eTr6faLNu0i9bR0ShboSFeq028kOjQ7R/edit?usp=sharing&ouid=101317544645534986868&rtpof=true&sd=true) and we were ready to execute our project.
+ 
 <a name="theevalanddec"></a>
 ## Our Evaluation/ Decision 
 After the planning, we decided to give every person a role. Virginia assured us on searching information of Zürich and Nikhil and I decided to do the programming for the site. Including programming the site, I took the role of doing the documentation, IPERKA, and as well the presentation. 
@@ -96,7 +95,7 @@ Image:
 Everything went smoothly until we had to show Mr. Neil where we were. I realized that I had not contributed much to the programming. Since Nikhil already had experience coding a website, he no longer needed my help with programming, thus we decided to come up with a new plan. Instead of programming, I will design the site along with my previous tasks. We all agreed and went ahead with it. 
 Designing the website was not easy, because most guide websites look very similar. I took a lot of inspiration from https://www.zuerich.com/de. I really enjoyed documenting due to me keening about writing. In addition, Virginia and I also filled in the assignments.
 
-Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the beginning](#thebeginning) section. 
+Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the beginning](#theidea) section. 
 
 Nikhil was the programmer of our website. He already had experience programming a website, so he didn't have much difficulty. He had learned a lot more about programming, and he enjoyed the experience. He used Visual Studio Code to program and used HTML, CSS, and Bootstraps to script our website. In the process, I showed him the design I had drawn for our website, and he followed through and designed the website to look like my agreed design. 
 For the website to be fun, it has to have colors and pictures. Unfortunately, we can't take pictures from the internet because of the copyright. So we decided to make pictures for the sites ourselves. That was a lot of fun.
