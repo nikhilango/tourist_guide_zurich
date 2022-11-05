@@ -108,9 +108,9 @@ We used a website called [siteimprove.com](https://www.siteimprove.com/) to chec
 
 ### Criteria 
 ```Here are our criteria for our website:```
-The users can access the website from different devices
-All pictures were taken by ourselves and are not from the Internet
-The website should not take longer than 2 seconds to load.
+- The users can access the website from different devices
+- All pictures were taken by ourselves and are not from the Internet
+- The website should not take longer than 2 seconds to load.
 
 - Test case excel sheet
 
