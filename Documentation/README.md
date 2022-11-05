@@ -56,7 +56,7 @@ Image
 -	Competency matrix
 - ressource plan </br>
 
-Under this text is our three month long process. The color describe who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.</br>
+Under this text is our three month long process. The color describe who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.</br></br>
 ![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)
 <center><sub>Our Process</br></sub></center></br> 
 
@@ -73,9 +73,9 @@ Under this text is our three month long process. The color describe who is who a
 <a name="theevalanddec"></a>
 ## Our Evaluation/ Decision 
 After the planning, we decided to give every person a role. Virginia assured us on searching information of Zürich and Nikhil and I decided to do the programming for the site. Including programming the site, I took the role of doing the documentation, IPERKA, and as well the presentation. 
-</br>
+</br></br>
 ![task list image](/../main/Documentation/asssignment_images/tgz-website-tasklistpng.png)
-<center><sub>Our sask list</br></sub></center></br> 
+<center><sub>Our task list</br></sub></center></br> 
 </br>
 
 Images:
