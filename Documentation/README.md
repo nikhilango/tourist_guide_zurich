@@ -52,14 +52,13 @@ We made a [to-do list:](https://todoist.com/API/v9.0/import/project_from_url?t_u
 ![todoist image](/../main/Documentation/asssignment_images/tgz-website-todoist.png)
 <center><sub>Our to-do list</br></sub></center></br> 
 
+### Our Process
+On Excel we made our our three month long process. The color describes who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.</br></br>
+![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)
+<center><sub>Our Process</br></sub></center></br> 
 Image
 -	Competency matrix
 - ressource plan </br>
-
-Under this text is our three month long process. The color describe who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.</br></br>
-![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)
-<center><sub>Our Process</br></sub></center></br> 
-
 
 ### Smart goals:<a name="thegoals"></a>
 ```Here are the goals we decided for our website:```
