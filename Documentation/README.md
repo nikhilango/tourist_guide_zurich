@@ -55,6 +55,8 @@ We made a [To-do List:](https://todoist.com/API/v9.0/import/project_from_url?t_u
 Image
 -	Competency matrix
 - ressource plan 
+tgz-website-plan.png
+
 
 ### Smart goals:<a name="thegoals"></a>
 ```Here are the goals we decided for our website:```
