@@ -77,7 +77,7 @@ Image
 ## Our Evaluation/ Decision 
 After the planning, we decided to give every person a role. Virginia assured us on searching information of Zürich and Nikhil and I decided to do the programming for the site. Including programming the site, I took the role of doing the documentation, IPERKA, and as well the presentation. 
 </br></br>
-![task list image](/../main/Documentation/asssignment_images/tgz-website-tasklistpng.png)
+![task list image](/../main/Documentation/asssignment_images/tgz-website-tasklist.png.png)
 <center><sub>Our task list</br></sub></center></br> 
 </br>
 
@@ -116,8 +116,8 @@ We used a website called [siteimprove.com](https://www.siteimprove.com/) to chec
 ### Test Case
 The test case is what should happen, when you go on the website. Everything is listed of how everything should proceed.
 </br></br>
-![task case image](/../main/Documentation/asssignment_images/tgz-website-tasklist.png.png)
-<center><sub>The task case</br></sub></center></br> 
+![test case image](/../main/Documentation/asssignment_images/tgz-website-testcase.png)
+<center><sub>The Test case</br></sub></center></br> 
 
 <a name="theassesment"></a>
 ## The Assessment
