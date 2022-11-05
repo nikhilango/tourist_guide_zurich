@@ -24,7 +24,7 @@ Project was succesfully made by:
 - test case
 - decision matrix
 - task list
--designs
+- designs
 **every doc found about our project, send me or post it!!**
 
 <a name="thebeginning"></a>
