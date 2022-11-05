@@ -54,7 +54,7 @@ You can find a more detailed description of each of the mentioned topics above b
 - PowerPoint (always available, for presentation)</br>
 
 ### The Risks
-Here is our risk list, that could have potentially happen but luckily didn't.</br></br>
+```Here is our risk list, that could have potentially happen but luckily didn't.```</br></br>
 ![risk image](/../main/Documentation/asssignment_images/tgz-website-riskassesment.png)
 <center><sub>The Risks</br></sub></center></br>
 
@@ -65,7 +65,7 @@ We made a [to-do list:](https://todoist.com/API/v9.0/import/project_from_url?t_u
 <center><sub>Our To-do list</br></sub></center></br> 
 
 ### Our Process
-```On Excel we made our our three month long process. The color describes who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.</br></br>```
+```On Excel we made our our three month long process. The color describes who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.```</br></br>
 ![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)
 <center><sub>Our Process</br></sub></center></br> 
 Image
