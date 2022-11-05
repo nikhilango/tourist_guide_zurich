@@ -20,7 +20,7 @@ Project was succesfully made by:
 - assignment brief
 
 *doc:*
-- ressource plan 
+- ressource plan
 - test case
 - decision matrix
 - task list
@@ -34,15 +34,15 @@ After he had introduced us our job that we would be doing in 3 Months, everyone 
 
 ### Links from where we got our ideas from:
 - Design
-              - https://www.zuerich.com/en
-              - https://maddysavenue.com/two-days-in-zurich-switzerland/
+  - https://www.zuerich.com/en
+  - https://maddysavenue.com/two-days-in-zurich-switzerland/
 - Information: 
-              - https://www.tripadvisor.com/Tourism-g188113-Zurich-Vacations.html
-              - https://www.zuerich.com/en
-              - https://www.tripadvisor.com/Attractions-g188113-Activities-Zurich.html
-              - https://www.timeout.com/switzerland/things-to-do/best-things-to-do-in-zurich
-              - https://www.thefork.ch/de/restaurants/zurich-c616469
-              - https://www.falstaff.ch/rf/lr/cso/schweiz/kanton-zurich/zurich/
+  - https://www.tripadvisor.com/Tourism-g188113-Zurich-Vacations.html
+  - https://www.zuerich.com/en
+  - https://www.tripadvisor.com/Attractions-g188113-Activities-Zurich.html
+  - https://www.timeout.com/switzerland/things-to-do/best-things-to-do-in-zurich
+  - https://www.thefork.ch/de/restaurants/zurich-c616469
+  - https://www.falstaff.ch/rf/lr/cso/schweiz/kanton-zurich/zurich/
 
 <a name="theidea"></a>
 ## The Ideas
@@ -70,7 +70,7 @@ Image:
 ## The Realisation
 Everything went smoothly until we had to show Mr. Neil where we were. I realized that I had not contributed much to the programming. Since Nikhil already had experience coding a website, he no longer needed my help with programming, thus we decided to come up with a new plan. Instead of programming, I will design the site along with my previous tasks. We all agreed and went ahead with it. 
 Designing the website was not easy, because most guide websites look very similar. I took a lot of inspiration from https://www.zuerich.com/de. I really enjoyed documenting due to me keening about writing. In addition, Virginia and I also filled in the assignments.
-Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the beginning](#thebeginning) section.
+Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the beginning](#thebeginning) section. 
 Nikhil was the programmer of our website. He already had experience programming a website, so he didn't have much difficulty. He had learned a lot more about programming, and he enjoyed the experience. He used Visual Studio Code to program and used HTML, CSS, and Bootstraps to script our website. In the process, I showed him the design I had drawn for our website, and he followed through and designed the website to look like my agreed design. 
 For the website to be fun, it has to have colors and pictures. Unfortunately, we can't take pictures from the internet because of the copyright. So we decided to make pictures for the sites ourselves. That was a lot of fun.
 
