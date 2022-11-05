@@ -33,11 +33,15 @@ Everything began on lovely Monday afternoon class. It was the first day of schoo
 After he had introduced us our job that we would be doing in 3 Months, everyone started rushing to find a pair or multiple pairs. Me, Virginia and Nikhil decided to go together for our projects. Mr Neil suddenly announced saying: “People who are in bigger groups will have an easier time displaying who’s doing what and that is why they’ll be graded much more strictly.” This was kind of alarming because we were one of the bigger groups, but we decided to stay together for the sake of our project.
 
 <a name="theidea"></a>
-## The Ideas
-We got our idea with the help of our teacher, Mr. Neil. He was showing us previous projects done by the year before us and one of the ideas were programming a website. We really liked the idea, so we decided to go for it.
+## The Idea
+We got our idea with the help of our teacher, Mr. Neil. He was showing us previous projects done by his previous studentts and one of the ideas were programming a website. We really liked the idea, so we decided to go for it.
 
+Now we didn’t know what our website was going to be about, so we decided to do a brainstorming and we came up with these ideas, one of them was an event planner, a blog making site and a tourist guide to Zürich. At last, we decided to make a Zürich tourist guide website. 
+The website would consists of a guide for tourists who want to visit Zurich or for people who live in Zurich and want to get to know their place better.
+There will be several sections where you can explore sightseeings places you can visit, restaurants in Zurich and fun activities to do.
+You can find a more detailed description of each of the mentioned topics above by clicking on them.
 
-### Links:
+### Ressources:
 ```Here are the links we remember that helped us a lot with our website:```
 - Design
   - https://www.zuerich.com/en
@@ -52,11 +56,23 @@ We got our idea with the help of our teacher, Mr. Neil. He was showing us previo
 
 <a name="theplanning"></a>
 ## Our Planning
-Now we didn’t know what our website was going to be about, so we decided that we would all start collecting ideas, which was an event planner, a blog making site and a tourist guide to Zürich. At last, we decided to make a Zürich tourist guide website. We made a Assessment brief and we were ready to execute our project. 
+We made a [To-do List:](https://todoist.com/API/v9.0/import/project_from_url?t_url=https%3A%2F%2Fd1aspxi4rjqbaz.cloudfront.net%2F1e6dcf9bda9bd78f5e18da0de6edeca8_TBZ%2520Website%2520Project.csv) on https://todoist.com/. There we wrote our most important goals and procedure on it. 
+**the photo of our to do list**
+
+We made a Assessment brief and we were ready to execute our project. 
+
 
 Image
--	Goals
 -	Competency matrix
+- ressource plan 
+- task list
+
+### Goals:
+```Here are the goals we decided for our website:```
+- The website is structured properly in a way that it is easily use
+- The website is compatible for all devices
+- By the 5th of november, the website is online and available (for everyone)
+- At least 5 people have visited our website within the next 2 months of its launch
 
 <a name="theevalanddec"></a>
 ## Our Evaluation/ Decision 
@@ -66,7 +82,14 @@ Image:
 -	Decision matrix
 -	Evaluation matrix
 -	Task list
--	Milestone
+- resource plan
+- 
+### Milestones:
+1. Discussion of the the layout and design for the website
+2. Gathering all the information about Zurich complete
+3. Program the code for the website
+4. Compare the Website to the design of the site
+5. Upload the website to the internet
 
 <a name="therealisation"></a>
 ## The Realisation
@@ -87,6 +110,12 @@ We used a website called siteimprove.com to check how many and what type of erro
 **Nikhil:  how did u check for the mistakes**
 - Test case  excel sheet
 
+### Criteria
+The users can access the website from different devices
+All pictures were taken by ourselves and are not from the Internet
+The website should not take longer than 2 seconds to load.
+
+
 <a name="theassesment"></a>
 ## The Assessment
 Our Group believes that we worked great together and accomplished the task we were assigned to do. We learned how to work together as a group and that it can be much more complicated and difficult than anticipated due to the fact that you have to trust every member with them 
@@ -94,3 +123,5 @@ fulfilling their assignment and in the given time. We had to learn to distribute
 All together we are very pleased with the outcome of our project, how well our group worked together and the fact that we completed everything on schedule as well as everything on our site.
 
 **Goals??? ^^**
+
+-test protocol
