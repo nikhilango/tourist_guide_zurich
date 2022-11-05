@@ -60,7 +60,7 @@ You can find a more detailed description of each of the mentioned topics above b
 
 <a name="theplanning"></a>
 ## Our Planning
-We made a [to-do list:](https://todoist.com/API/v9.0/import/project_from_url?t_url=https%3A%2F%2Fd1aspxi4rjqbaz.cloudfront.net%2F1e6dcf9bda9bd78f5e18da0de6edeca8_TBZ%2520Website%2520Project.csv) on https://todoist.com/. There we wrote our most important goals and procedure on it.</br></br>
+We had done tons of planning for this project. Planning is a very important step for a project because it sums the whole project up. We used many tools for the planning like a [to-do list:](https://todoist.com/API/v9.0/import/project_from_url?t_url=https%3A%2F%2Fd1aspxi4rjqbaz.cloudfront.net%2F1e6dcf9bda9bd78f5e18da0de6edeca8_TBZ%2520Website%2520Project.csv) on https://todoist.com/. On this site we wrote our most important goals and procedure on it.</br></br>
 <img src="/../main/Documentation/asssignment_images/tgz-website-todoist.png" width=60% height=50%>
 <center><sub>Our To-do list</br></sub></center></br> 
 
