@@ -81,7 +81,6 @@ Image:
 -	Decision matrix
 -	Evaluation matrix
 -	Task list
-- resource plan
 
 ### Milestones:
 1. Discussion of the the layout and design for the website
