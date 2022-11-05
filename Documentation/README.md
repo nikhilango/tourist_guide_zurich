@@ -132,4 +132,3 @@ We are confident this goal is going to get fulfilled.
 All together we are very pleased with the outcome of our project, how well our group worked together and the fact that we completed everything on schedule as well as everything on our site.
 
 > [Check out our Website and learn more about Zürich!](https://tourist-guide-zurich.web.app/)
-
