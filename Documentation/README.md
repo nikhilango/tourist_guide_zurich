@@ -32,7 +32,7 @@ Project was succesfully made by:
 Everything began on lovely Monday afternoon class. It was the first day of school and the teacher told us we would be hosting projects. It could have been anything, but it would benefit us more, if it would be in our own fields. 
 After he had introduced us our job that we would be doing in 3 Months, everyone started rushing to find a pair or multiple pairs. Me, Virginia and Nikhil decided to go together for our projects. Mr Neil suddenly announced saying: “People who are in bigger groups will have an easier time displaying who’s doing what and that is why they’ll be graded much more strictly.” This was kind of alarming because we were one of the bigger groups, but we decided to stay together for the sake of our project.
 
-### Links from where we got our ideas from:
+### Links:
 - Design
   - https://www.zuerich.com/en
   - https://maddysavenue.com/two-days-in-zurich-switzerland/
