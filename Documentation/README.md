@@ -64,7 +64,7 @@ Image
 -	Competency matrix
 - ressource plan 
 
-### Goals:
+### Smart goals:<a name="thegoals"></a>
 ```Here are the goals we decided for our website:```
 - The website is structured properly in a way that it is easily use
 - The website is compatible for all devices
@@ -82,7 +82,7 @@ Image:
 -	Evaluation matrix
 -	Task list
 - resource plan
-- 
+
 ### Milestones:
 1. Discussion of the the layout and design for the website
 2. Gathering all the information about Zurich complete
@@ -95,32 +95,32 @@ Image:
 Everything went smoothly until we had to show Mr. Neil where we were. I realized that I had not contributed much to the programming. Since Nikhil already had experience coding a website, he no longer needed my help with programming, thus we decided to come up with a new plan. Instead of programming, I will design the site along with my previous tasks. We all agreed and went ahead with it. 
 Designing the website was not easy, because most guide websites look very similar. I took a lot of inspiration from https://www.zuerich.com/de. I really enjoyed documenting due to me keening about writing. In addition, Virginia and I also filled in the assignments.
 
-Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the beginning](#theidea) section. 
+Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the idea](#theidea) section. 
 
 Nikhil was the programmer of our website. He already had experience programming a website, so he didn't have much difficulty. He had learned a lot more about programming, and he enjoyed the experience. He used Visual Studio Code to program and used HTML, CSS, and Bootstraps to script our website. In the process, I showed him the design I had drawn for our website, and he followed through and designed the website to look like my agreed design. 
 For the website to be fun, it has to have colors and pictures. Unfortunately, we can't take pictures from the internet because of the copyright. So we decided to make pictures for the sites ourselves. That was a lot of fun.
 
 <a name="thecontrol"></a>
 ## The Control
-We checked our mistakes..
----> Each time after adding something new to the code we would check how the website is working and if there is any problem. then we would try to improve the things that aren't right yet. 
-We used a website called siteimprove.com to check how many and what type of errors we still had on our website.
+We checked our mistakes by asking eachother and the people around us. 
+In programming, every time Nikhil added something new to the code, we would check how the site would work. If there were any problems, we would try to improve the things that were not quite right yet. Virginia and I had to do the writing parts of our project. For that we constantly asked eachother for opinions of grammatical errors
+We used a website called [siteimprove.com](https://www.siteimprove.com/) to check how many and what type of errors we still had on our website. To gather more opinions, we asked our friends what they thought about our website. My friends really liked how informative our site was, but they found it bland. After some improvements, they found it acceptable.
 
-**Nikhil:  how did u check for the mistakes**
-- Test case  excel sheet
-
-### Criteria
+### Criteria 
+```Here are our criteria for our website:```
 The users can access the website from different devices
 All pictures were taken by ourselves and are not from the Internet
 The website should not take longer than 2 seconds to load.
 
+- Test case excel sheet
 
 <a name="theassesment"></a>
 ## The Assessment
 Our Group believes that we worked great together and accomplished the task we were assigned to do. We learned how to work together as a group and that it can be much more complicated and difficult than anticipated due to the fact that you have to trust every member with them 
-fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother. Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying.
+fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother. Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying. We also have completed most of [our goals](#thegoals). Not all because one our goals indicates itself in th future 
+```"At least 5 people have visited our website within the next 2 months of its launch"```. We are confident this goal is going to get fulfilled.
 All together we are very pleased with the outcome of our project, how well our group worked together and the fact that we completed everything on schedule as well as everything on our site.
 
-**Goals??? ^^**
+> [Check out our Website and learn more about Zürich!](https://tourist-guide-zurich.web.app/)
 
 -test protocol
