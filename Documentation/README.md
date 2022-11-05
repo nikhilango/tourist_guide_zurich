@@ -32,10 +32,17 @@ Project was succesfully made by:
 Everything began on lovely Monday afternoon class. It was the first day of school and the teacher told us we would be hosting projects. It could have been anything, but it would benefit us more, if it would be in our own fields. 
 After he had introduced us our job that we would be doing in 3 Months, everyone started rushing to find a pair or multiple pairs. Me, Virginia and Nikhil decided to go together for our projects. Mr Neil suddenly announced saying: “People who are in bigger groups will have an easier time displaying who’s doing what and that is why they’ll be graded much more strictly.” This was kind of alarming because we were one of the bigger groups, but we decided to stay together for the sake of our project.
 
-Links from where we got our ideas from:
-
-- [Design](https://www.zuerich.com/de)
-- [Information](https://www.tripadvisor.com/Tourism-g188113-Zurich-Vacations.html)
+### Links from where we got our ideas from:
+- Design
+              - https://www.zuerich.com/en
+              - https://maddysavenue.com/two-days-in-zurich-switzerland/
+- Information: 
+              - https://www.tripadvisor.com/Tourism-g188113-Zurich-Vacations.html
+              - https://www.zuerich.com/en
+              - https://www.tripadvisor.com/Attractions-g188113-Activities-Zurich.html
+              - https://www.timeout.com/switzerland/things-to-do/best-things-to-do-in-zurich
+              - https://www.thefork.ch/de/restaurants/zurich-c616469
+              - https://www.falstaff.ch/rf/lr/cso/schweiz/kanton-zurich/zurich/
 
 <a name="theidea"></a>
 ## The Ideas
@@ -61,14 +68,11 @@ Image:
 
 <a name="therealisation"></a>
 ## The Realisation
-Everything was going smoothly till we had to show Mr Neil where we were at. I realised I wasn’t being a big contribute to the programming. Because Nikhil had experiences of programming a site, he didn’t need much of my offers to the programming and we decided to make a new plan. 
-Instead of me programming, I will be designing the site and also doing my previous roles. We all agreed and proceeded on.
-
-
-**If theres anything you, Virginia or Nikhil want to add in the realisation part which you did, add it in this section**
----> --->  V: I mainly focused on research and collecting the information we needed for our website for example the top 10 places to visit in Zurich. For that I looked the diferents places an drestaurant up on the internet and try to get as much information about it as possible and resume it. I also read reviews of people to each place (mainly restaurant and activities), so I would get a better idea of how people expierences were. I enjoyed the part of work I was aasigned to do beacuase I myself learnt a lot of interesting things about Zurich.
-
-_Nikhil: what application I used, how it went, difficulties_
+Everything went smoothly until we had to show Mr. Neil where we were. I realized that I had not contributed much to the programming. Since Nikhil already had experience coding a website, he no longer needed my help with programming, thus we decided to come up with a new plan. Instead of programming, I will design the site along with my previous tasks. We all agreed and went ahead with it. 
+Designing the website was not easy, because most guide websites look very similar. I took a lot of inspiration from https://www.zuerich.com/de. I really enjoyed documenting due to me keening about writing. In addition, Virginia and I also filled in the assignments.
+Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the beginning](#thebeginning) section.
+Nikhil was the programmer of our website. He already had experience programming a website, so he didn't have much difficulty. He had learned a lot more about programming, and he enjoyed the experience. He used Visual Studio Code to program and used HTML, CSS, and Bootstraps to script our website. In the process, I showed him the design I had drawn for our website, and he followed through and designed the website to look like my agreed design. 
+For the website to be fun, it has to have colors and pictures. Unfortunately, we can't take pictures from the internet because of the copyright. So we decided to make pictures for the sites ourselves. That was a lot of fun.
 
 <a name="thecontrol"></a>
 ## The Control
