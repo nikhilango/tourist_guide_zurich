@@ -15,9 +15,6 @@ Project was succesfully made by:
 - [The Control](#thecontrol)
 - [The Assesment](#theassesment)
 
-
-**till 6.11:**
-
 <a name="thebeginning"></a>
 ## The Beginning
 Everything began on a lovely Monday afternoon class. It was the first day of school and the teacher told us we would be hosting projects. It could have been anything, but it would benefit us more, if it would be in our own fields. 
