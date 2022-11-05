@@ -68,8 +68,11 @@ We had done tons of planning for this project. Planning is a very important step
 ```On Excel we made our our three month long process. The color describes who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.```</br></br>
 ![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)
 <center><sub>Our Process</br></sub></center></br> 
-Image
--	Competency matrix</br>
+
+### The Competency Matrix
+```Heres our competency matrix. Basically in here is a short description how much experience and knowledge we have.```</br></br>
+![compmatrix image](/../main/Documentation/asssignment_images/tgz-website-competencymatrixpng.png)
+<center><sub>The Competency Matrix</br></sub></center></br
 
 ### Smart goals:<a name="thegoals"></a>
 ```Here are the goals we decided for our website:```
