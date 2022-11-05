@@ -48,7 +48,7 @@ You can find a more detailed description of each of the mentioned topics above b
 
 <a name="theplanning"></a>
 ## Our Planning
-We made a [to-do list:](https://todoist.com/API/v9.0/import/project_from_url?t_url=https%3A%2F%2Fd1aspxi4rjqbaz.cloudfront.net%2F1e6dcf9bda9bd78f5e18da0de6edeca8_TBZ%2520Website%2520Project.csv) on https://todoist.com/. There we wrote our most important goals and procedure on it.</br>
+We made a [to-do list:](https://todoist.com/API/v9.0/import/project_from_url?t_url=https%3A%2F%2Fd1aspxi4rjqbaz.cloudfront.net%2F1e6dcf9bda9bd78f5e18da0de6edeca8_TBZ%2520Website%2520Project.csv) on https://todoist.com/. There we wrote our most important goals and procedure on it.</br></br>
 ![todoist image](/../main/Documentation/asssignment_images/tgz-website-todoist.png)
 <center><sub>Our to-do list</br></sub></center></br> 
 
