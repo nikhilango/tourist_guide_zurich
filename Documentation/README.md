@@ -61,8 +61,14 @@ On Excel we made our our three month long process. The color describes who is wh
 ![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)
 <center><sub>Our Process</br></sub></center></br> 
 Image
--	Competency matrix
-- ressource plan </br>
+-	Competency matrix</br>
+
+### Resource planning
+- Visual Studio Code (always available)
+- HTML and CSS (always available)
+- Links (always available)
+- Laptops (always available)
+- PowerPoint (always available, for presentation)</br>
 
 ### Smart goals:<a name="thegoals"></a>
 ```Here are the goals we decided for our website:```
