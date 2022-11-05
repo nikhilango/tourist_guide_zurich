@@ -17,14 +17,6 @@ Project was succesfully made by:
 
 
 **till 6.11:**
-- assignment brief
-
-*doc:*
-- ressource plan
-- test case
-- decision matrix
-- task list
-- designs
 **every doc found about our project, send me or post it!!**
 
 <a name="thebeginning"></a>
