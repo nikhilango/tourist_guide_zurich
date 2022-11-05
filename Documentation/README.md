@@ -56,8 +56,8 @@ Image
 -	Competency matrix
 - ressource plan </br> 
 
-![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)</br>
-<center><sub>Our Process</br></sub></center>
+![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)
+<center><sub>Our Process</br></sub></center></br> 
 
 
 ### Smart goals:<a name="thegoals"></a>
