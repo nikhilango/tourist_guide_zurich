@@ -55,7 +55,8 @@ We made a [To-do List:](https://todoist.com/API/v9.0/import/project_from_url?t_u
 Image
 -	Competency matrix
 - ressource plan 
-tgz-website-plan.png
+<img src="assignment_images/tgz-website-plan.png"><br>
+
 
 
 ### Smart goals:<a name="thegoals"></a>
@@ -85,7 +86,7 @@ Image:
 
 <a name="therealisation"></a>
 ## The Realisation
-Everything went smoothly until we had to show Mr. Neil where we were. I realized that I had not contributed much to the programming. Since Nikhil already had experience coding a website, he no longer needed my help with programming, thus we decided to come up with a new plan. Instead of programming, I will design the site along with my previous tasks. We all agreed and went ahead with it. 
+Everything went smoothly until we had to show Mr. Neil where we were. I realized that I had not contributed much to the programming. Since Nikhil already had experience coding a website, he no longer needed my help with programming, thus we decided to come up with a new plan. Instead of programming, I will design the site along with my previous tasks. We all agreed and went ahead with it.<br>
 Designing the website was not easy, because most guide websites look very similar. I took a lot of inspiration from https://www.zuerich.com/de. I really enjoyed documenting due to me keening about writing. In addition, Virginia and I also filled in the assignments.
 
 Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the ressources](#ther) section. 
@@ -96,7 +97,7 @@ For the website to be fun, it has to have colors and pictures. Unfortunately, we
 <a name="thecontrol"></a>
 ## The Control
 We checked our mistakes by asking eachother and the people around us. 
-In programming, every time Nikhil added something new to the code, we would check how the site would work. If there were any problems, we would try to improve the things that were not quite right yet. Virginia and I had to do the writing parts of our project. For that we constantly asked eachother for opinions of grammatical errors
+In programming, every time Nikhil added something new to the code, we would check how the site would work. If there were any problems, we would try to improve the things that were not quite right yet. Virginia and I had to do the writing parts of our project. For that we constantly asked eachother for opinions of grammatical errors.<br>
 We used a website called [siteimprove.com](https://www.siteimprove.com/) to check how many and what type of errors we still had on our website. To gather more opinions, we asked our friends what they thought about our website. My friends really liked how informative our site was, but they found it bland. After some improvements, they found it acceptable.
 
 ### Criteria 
@@ -109,9 +110,10 @@ Test case excel sheet
 
 <a name="theassesment"></a>
 ## The Assessment
-Our Group believes that we worked great together and accomplished the task we were assigned to do. We learned how to work together as a group and that it can be much more complicated and difficult than anticipated due to the fact that you have to trust every member with them 
-fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother. Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying. We also have completed most of [our goals](#thegoals). Not all because one our goals indicates itself in th future 
-```"At least 5 people have visited our website within the next 2 months of its launch"```. We are confident this goal is going to get fulfilled.
+Our Group believes that we worked great together and accomplished the task we were assigned to do. We learned how to work together as a group and that it can be much more complicated and difficult than anticipated due to the fact that you have to trust every member with them fulfilling their assignment and in the given time. We had to learn to distribute the tasks strategically and have everyone work on something at the same time, plus to communicate consistently with eachother.</br>
+Our website was programmed smoothly and we didnt have many problems. However, we did have problems with our GitHub of publishing articles, which was quite annoying. We also have completed most of [our goals](#thegoals). Not all because one our goals indicates itself in the future </br>
+```"At least 5 people have visited our website within the next 2 months of its launch"```. </br>
+We are confident this goal is going to get fulfilled.
 All together we are very pleased with the outcome of our project, how well our group worked together and the fact that we completed everything on schedule as well as everything on our site.
 
 > [Check out our Website and learn more about Zürich!](https://tourist-guide-zurich.web.app/)
