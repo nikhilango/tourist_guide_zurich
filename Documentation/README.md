@@ -38,7 +38,7 @@ We got our idea with the help of our teacher, Mr. Neil. He was showing us previo
 
 
 ### Links:
-```Here are the links we remember that helped us a lot with our website: ``
+```Here are the links we remember that helped us a lot with our website:```
 - Design
   - https://www.zuerich.com/en
   - https://maddysavenue.com/two-days-in-zurich-switzerland/
