@@ -54,8 +54,9 @@ We made a [To-do List:](https://todoist.com/API/v9.0/import/project_from_url?t_u
 
 Image
 -	Competency matrix
-- ressource plan 
-!(/../main/Documentation/asssignment_images/tgz-website-plan.png)<br>
+- ressource plan </br> 
+<sub><center>Our Process</center></br></sub>
+![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)</br>
 
 
 
