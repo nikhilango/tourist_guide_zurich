@@ -113,8 +113,13 @@ We used a website called [siteimprove.com](https://www.siteimprove.com/) to chec
 - The users can access the website from different devices
 - All pictures were taken by ourselves and are not from the Internet
 - The website should not take longer than 2 seconds to load.
+### Test Case
+The test case is what should happen, when you go on the website. Everything is listed of how everything should proceed.
+</br></br>
+![task case image](/../main/Documentation/asssignment_images/tgz-website-tasklist.png.png)
+<center><sub>The task case</br></sub></center></br> 
+</br>
 
-Test case excel sheet
 
 <a name="theassesment"></a>
 ## The Assessment
