@@ -118,8 +118,6 @@ The test case is what should happen, when you go on the website. Everything is l
 </br></br>
 ![task case image](/../main/Documentation/asssignment_images/tgz-website-tasklist.png.png)
 <center><sub>The task case</br></sub></center></br> 
-</br>
-
 
 <a name="theassesment"></a>
 ## The Assessment
