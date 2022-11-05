@@ -54,8 +54,9 @@ We made a [to-do list:](https://todoist.com/API/v9.0/import/project_from_url?t_u
 
 Image
 -	Competency matrix
-- ressource plan </br> 
+- ressource plan </br>
 
+Under this text is our three month long process. The color describe who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey
 ![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)
 <center><sub>Our Process</br></sub></center></br> 
 
