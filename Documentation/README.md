@@ -45,12 +45,16 @@ You can find a more detailed description of each of the mentioned topics above b
   - https://www.timeout.com/switzerland/things-to-do/best-things-to-do-in-zurich
   - https://www.thefork.ch/de/restaurants/zurich-c616469
   - https://www.falstaff.ch/rf/lr/cso/schweiz/kanton-zurich/zurich/
+### The Risks
+Here is our risk list, that could have potentially happen but luckily didn't.</br></br>
+![risk image](/../main/Documentation/asssignment_images/tgz-website-riskassesment.png)
+<center><sub>The Risks</br></sub></center></br>
 
 <a name="theplanning"></a>
 ## Our Planning
 We made a [to-do list:](https://todoist.com/API/v9.0/import/project_from_url?t_url=https%3A%2F%2Fd1aspxi4rjqbaz.cloudfront.net%2F1e6dcf9bda9bd78f5e18da0de6edeca8_TBZ%2520Website%2520Project.csv) on https://todoist.com/. There we wrote our most important goals and procedure on it.</br></br>
 ![todoist image](/../main/Documentation/asssignment_images/tgz-website-todoist.png)
-<center><sub>Our to-do list</br></sub></center></br> 
+<center><sub>Our To-do list</br></sub></center></br> 
 
 ### Our Process
 On Excel we made our our three month long process. The color describes who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.</br></br>
