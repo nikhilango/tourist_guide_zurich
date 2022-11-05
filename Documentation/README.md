@@ -17,7 +17,6 @@ Project was succesfully made by:
 
 
 **till 6.11:**
-**every doc found about our project, send me or post it!!**
 
 <a name="thebeginning"></a>
 ## The Beginning
@@ -45,6 +44,15 @@ You can find a more detailed description of each of the mentioned topics above b
   - https://www.timeout.com/switzerland/things-to-do/best-things-to-do-in-zurich
   - https://www.thefork.ch/de/restaurants/zurich-c616469
   - https://www.falstaff.ch/rf/lr/cso/schweiz/kanton-zurich/zurich/
+ 
+### Resource planning
+```Availability of our ressources:```
+- Visual Studio Code (always available)
+- HTML and CSS (always available)
+- Links (always available)
+- Laptops (always available)
+- PowerPoint (always available, for presentation)</br>
+
 ### The Risks
 Here is our risk list, that could have potentially happen but luckily didn't.</br></br>
 ![risk image](/../main/Documentation/asssignment_images/tgz-website-riskassesment.png)
@@ -57,18 +65,11 @@ We made a [to-do list:](https://todoist.com/API/v9.0/import/project_from_url?t_u
 <center><sub>Our To-do list</br></sub></center></br> 
 
 ### Our Process
-On Excel we made our our three month long process. The color describes who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.</br></br>
+```On Excel we made our our three month long process. The color describes who is who and who is doing what. On the left side are the assignments and on top are the days of our three month long journey.</br></br>```
 ![websiteplan image](/../main/Documentation/asssignment_images/tgz-website-plan.png)
 <center><sub>Our Process</br></sub></center></br> 
 Image
 -	Competency matrix</br>
-
-### Resource planning
-- Visual Studio Code (always available)
-- HTML and CSS (always available)
-- Links (always available)
-- Laptops (always available)
-- PowerPoint (always available, for presentation)</br>
 
 ### Smart goals:<a name="thegoals"></a>
 ```Here are the goals we decided for our website:```
@@ -89,7 +90,6 @@ After the planning, we decided to give every person a role. Virginia assured us 
 
 Images:
 -	Decision matrix
--	Evaluation matrix
 
 ### Milestones:
 1. Discussion of the the layout and design for the website
@@ -101,10 +101,8 @@ Images:
 <a name="therealisation"></a>
 ## The Realisation
 Everything went smoothly until we had to show Mr. Neil where we were. I realized that I had not contributed much to the programming. Since Nikhil already had experience coding a website, he no longer needed my help with programming, thus we decided to come up with a new plan. Instead of programming, I will design the site along with my previous tasks. We all agreed and went ahead with it.<br>
-Designing the website was not easy, because most guide websites look very similar. I took a lot of inspiration from https://www.zuerich.com/de. I really enjoyed documenting due to me keening about writing. In addition, Virginia and I also filled in the assignments.
-
-Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the ressources](#ther) section. 
-
+Designing the website was not easy, because most guide websites look very similar. I took a lot of inspiration from https://www.zuerich.com/de. I really enjoyed documenting due to me keening about writing. In addition, Virginia and I also filled in the assignments.</br>
+Virginia was the researcher for our project. She gathered tons of information by contacting many websites. Searching for information is very difficult, especially when you have to make sure that the text is not identical, which Virginia did a great job of. She searched for the 10 best places to visit, the best restaurants in Zurich and also fun activities to do in Zurich. Through her research, she learned a lot of new information about Zurich. Unfortunately, as mentioned before, Virginia used many websites for her research, but she can't remember every site. Therefore, we have linked the sites she was certain of using and have linked them in [the ressources](#ther) section. </br>
 Nikhil was the programmer of our website. He already had experience programming a website, so he didn't have much difficulty. He had learned a lot more about programming, and he enjoyed the experience. He used Visual Studio Code to program and used HTML, CSS, and Bootstraps to script our website. In the process, I showed him the design I had drawn for our website, and he followed through and designed the website to look like my agreed design. 
 For the website to be fun, it has to have colors and pictures. Unfortunately, we can't take pictures from the internet because of the copyright. So we decided to make pictures for the sites ourselves. That was a lot of fun.
 
@@ -120,7 +118,7 @@ We used a website called [siteimprove.com](https://www.siteimprove.com/) to chec
 - All pictures were taken by ourselves and are not from the Internet
 - The website should not take longer than 2 seconds to load.
 ### Test Case
-The test case is what should happen, when you go on the website. Everything is listed of how everything should proceed.
+```The test case is what should happen, when you go on the website. Everything is listed of how everything should proceed.```
 </br></br>
 ![test case image](/../main/Documentation/asssignment_images/tgz-website-testcase.png)
 <center><sub>The Test case</br></sub></center></br> 
@@ -135,4 +133,3 @@ All together we are very pleased with the outcome of our project, how well our g
 
 > [Check out our Website and learn more about Zürich!](https://tourist-guide-zurich.web.app/)
 
--test protocol
