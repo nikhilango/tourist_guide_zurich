@@ -91,8 +91,7 @@ After the planning, we decided to give every person a role. Virginia assured us 
 <center><sub>Our task list</br></sub></center></br> 
 </br>
 
-Images:
--	Decision matrix
+We didn't have any problems with our decisions. We worked as a team in every aspect. When one was having difficulties, we resolved it quickly and patiently so we could think everything thoroughly. 
 
 ### Milestones:
 1. Discussion of the the layout and design for the website
