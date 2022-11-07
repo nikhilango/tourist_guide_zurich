@@ -90,6 +90,13 @@ After the planning, we decided to give every person a role. Virginia assured us 
 
 We didn't have any problems with our decisions. We worked as a team in every aspect. When one was having difficulties, we resolved it quickly and made sure we thought everything through thoroughly.
 
+### Decision Matrix
+Here is our decision matrix. The decision matrix is about choosing the topic of our website. As you know, we chose the Zürich Tourist Guide in the end.
+</br></br>
+![decisionmatrix image](/../main/Documentation/asssignment_images/tgz-decisionmatrix.png)
+<center><sub>Our Decision Matrix</br></sub></center></br> 
+</br>
+
 ### Milestones:
 1. Discussion of the the layout and design for the website
 2. Gathering all the information about Zurich complete
